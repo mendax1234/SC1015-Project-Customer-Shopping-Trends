@@ -16,7 +16,9 @@ The dataset that we have chosen is taken from [Kaggle](https://www.kaggle.com/da
 
 ## Methodology:
 ### [Data Extraction and Visualisation](./Data-Extraction-and-Analysis.ipynb)
+
 The dataset includes a combination of numerical values and categorical values.
+
 - **Data Cleaning**:
     - 
 
