@@ -7,7 +7,7 @@ We use data science and machine learning to enhance the shopping experience by p
 Listed here are the ipynb files used, which should be view in numerical order.
 
 1. [Data Extraction and Visualisation](./Data-Extraction-and-Analysis.ipynb)
-2. [Categorical Linear Regression](./Linear-Regression.ipynb)
+2. [Linear Regression](./Linear-Regression.ipynb)
 3. [Random Forest](./Random-Forest.ipynb)
 4. [XGBoost](./XGboost.ipynb)
 
@@ -17,7 +17,7 @@ The dataset that we have chosen is taken from [Kaggle](https://www.kaggle.com/da
 ## Methodology:
 ### [Data Extraction and Visualisation](./Data-Extraction-and-Analysis.ipynb)
 
-### [Categorical Linear Regression](./Linear-Regression.ipynb)
+### [Linear Regression](./Linear-Regression.ipynb)
 
 ### [Random Forest](./Random-Forest.ipynb)
 
