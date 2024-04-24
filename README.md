@@ -1,9 +1,9 @@
 # ❤️ Topic: Customer Shopping Trends
 
 ## Overview:
-This repo contains the project files for the SC1015 mini-project.
-In the rapidly evolving retail landscape, businesses face significant challenges in meeting the diverse preferences of consumers. Additionally, without accurate predictions of product ratings, sellers may miss critical insights into consumer feedback that could drive improvements.
-We use data science and machine learning to enhance the shopping experience by personalising product recommendations for shoppers and predicting product ratings for sellers.
+This repo contains the project files for the SC1015 mini-project. \
+In the rapidly evolving retail landscape, businesses face significant challenges in meeting the diverse preferences of consumers. Additionally, without accurate predictions of product ratings, sellers may miss critical insights into consumer feedback that could drive improvements. \
+We use data science and machine learning to enhance the shopping experience by personalising product recommendations for shoppers and predicting product ratings for sellers. \
 Listed here are the ipynb files used, which should be view in numerical order.
 
 1. [Data Extraction and Visualisation](./Data%20Extraction%20and%20Analysis.ipynb)
