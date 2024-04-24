@@ -49,10 +49,10 @@ Interestingly, while the Random Forest model indicated that 'Category' was the l
 ## Results:
 This table presents performance metrics for both the Linear Regression and Random Forest models.
 
-| Model                    | Accuracy (Goodness of fit) | Mean Squared Error (MSE) |
-|--------------------------|----------------------------|--------------------------|
-| Linear Regression        | 0.57                       | -0.05665                 |
-| Random Forest            | 0.55                       |  0.05672                 |
+| Model                    | Mean Squared Error (MSE)   | Accuracy (Goodness of fit) |
+|--------------------------|----------------------------|----------------------------|
+| Linear Regression        | 0.57                       | -0.05665                   |
+| Random Forest            | 0.55                       |  0.05672                   |
 
 ## Conclusion:
 In conclusion, we have found that for predicting review ratings location is the most important factor and for recommending an item to a customer, category is the most important factor.
