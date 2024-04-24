@@ -46,6 +46,14 @@ While the train dataset accuracy was decent at 0.67, the test accuracy was notab
 However, given the diverse range of products, this result is considered acceptable since precise predictions on customer purchases are inherently challenging. 
 Interestingly, while the Random Forest model indicated that 'Category' was the least important factor in predicting review rates, XGBoost highlighted its significance. This is logical, as customer satisfaction is primarily influenced by whether the recommended item aligns with their desired category. In a practical scenario, entering customer information yields a product recommendation—in this case, a T-shirt was suggested for the customer.
 
+## Results:
+This table presents performance metrics for both the Linear Regression and Random Forest models.
+
+| Model                    | Accuracy (Goodness of fit) | Mean Squared Error (MSE) |
+|--------------------------|----------------------------|--------------------------|
+| LinearSVC                | 0.57                       | -0.05665                 |
+| Bi-directional LSTM      | 0.55                       |  0.05672                 |
+
 ## Conclusion:
 In conclusion, we have found that for predicting review ratings location is the most important factor and for recommending an item to a customer, category is the most important factor.
 
