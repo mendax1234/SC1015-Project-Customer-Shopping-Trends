@@ -1,7 +1,7 @@
 # ❤️ Topic: Customer Shopping Trends
 
 ## Overview:
-This repo contains the project files for the SC1015 mini-project. \
+This repo contains the project files for the SC1015 mini-project from FCSF Group 6. \
 In the rapidly evolving retail landscape, businesses face significant challenges in meeting the diverse preferences of consumers. Additionally, without accurate predictions of product ratings, sellers may miss critical insights into consumer feedback that could drive improvements. \
 We use data science and machine learning to enhance the shopping experience by personalising product recommendations for shoppers and predicting product ratings for sellers. \
 Listed here are the ipynb files used, which should be view in numerical order.
@@ -16,6 +16,13 @@ The dataset that we have chosen is taken from [Kaggle](https://www.kaggle.com/da
 
 ## Methodology:
 ### [Data Extraction and Visualisation](./Data-Extraction-and-Analysis.ipynb)
+The dataset includes a combination of numerical values and categorical values.
+- **Data Cleaning**:
+    - 
+
+- **Data Visualisation**:
+    - 
+
 
 ### [Linear Regression](./Linear-Regression.ipynb)
 
