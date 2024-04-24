@@ -1,7 +1,5 @@
 # ❤️ Topic: Customer Shopping Trends
 
----
-
 ## Overview:
 This repo contains the project files for the SC1015 mini-project.
 In the rapidly evolving retail landscape, businesses face significant challenges in meeting the diverse preferences of consumers. Additionally, without accurate predictions of product ratings, sellers may miss critical insights into consumer feedback that could drive improvements.
