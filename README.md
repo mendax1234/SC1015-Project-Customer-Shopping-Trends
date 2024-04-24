@@ -20,8 +20,15 @@ The dataset that we have chosen is taken from [Kaggle](https://www.kaggle.com/da
 The dataset includes a combination of numerical values and categorical values.
 
 - **Data Cleaning**: 
+    - Handle invalid and NaN values
+    - Handle duplicate values
+    - Check the data type consistency
+    - Check the label consistency and correctness
 
 - **Data Visualisation**:
+    - Do uni-variate and multivariate analysis on numerical data.
+    - Use bar chart and heatmap to visualise Item Purchased against different categorical data. We get some useful information like seasonal purchasing trend and regional purchasing trend.
+    - Use boxplots to visualise the Review Rate against different categorical data. But m
 
 
 ### [Linear Regression](./Linear-Regression.ipynb)
