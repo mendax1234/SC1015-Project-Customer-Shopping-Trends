@@ -28,7 +28,7 @@ The dataset includes a combination of numerical values and categorical values.
 - **Data Visualisation**:
     - Do uni-variate and multivariate analysis on numerical data.
     - Use bar chart and heatmap to visualise Item Purchased against different categorical data. We get some useful information like seasonal purchasing trend and regional purchasing trend.
-    - Use boxplots to visualise the Review Rate against different categorical data. But m
+    - Use boxplots to visualise the Review Rate against different categorical data.
 
 
 ### [Linear Regression](./Linear-Regression.ipynb)
