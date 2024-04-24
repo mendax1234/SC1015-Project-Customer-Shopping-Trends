@@ -8,8 +8,8 @@ Listed here are the ipynb files used, which should be view in numerical order.
 
 1. [Data Extraction and Visualisation](./Data%20Extraction%20and%20Analysis.ipynb)
 2. [Categorical Linear Regression](./Categorical%20Linear%20regression%20(2).ipynb)
-3. [Random Forest](./Random%20Forest%20.ipynb)
-4. [XGBoost](./XGBoost.ipynb)
+3. [Random Forest](./Random%20forest.ipynb)
+4. [XGBoost](./XGboost.ipynb)
 
 ## Dataset:
 The dataset that we have chosen is taken from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data) and contains data of customer shopping trends.
@@ -19,9 +19,9 @@ The dataset that we have chosen is taken from [Kaggle](https://www.kaggle.com/da
 
 ### [Categorical Linear Regression](./Categorical%20Linear%20regression%20(2).ipynb)
 
-### [Random Forest](./Random%20Forest%20.ipynb)
+### [Random Forest](./Random%20forest.ipynb)
 
-### [XGBoost](./XGBoost.ipynb)
+### [XGBoost](./XGboost.ipynb)
 
 ## Results:
 
