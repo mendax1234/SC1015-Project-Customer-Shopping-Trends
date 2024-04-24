@@ -58,9 +58,9 @@ The XGBoost model is also a solid model for recommending to a new customer an it
 3. @mendax1234
 
 ## References
-https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/
+- https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/
 
-https://xgboost.readthedocs.io/en/stable/
+- https://xgboost.readthedocs.io/en/stable/
 
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
