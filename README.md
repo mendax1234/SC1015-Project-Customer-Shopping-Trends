@@ -51,8 +51,8 @@ This table presents performance metrics for both the Linear Regression and Rando
 
 | Model                    | Accuracy (Goodness of fit) | Mean Squared Error (MSE) |
 |--------------------------|----------------------------|--------------------------|
-| LinearSVC                | 0.57                       | -0.05665                 |
-| Bi-directional LSTM      | 0.55                       |  0.05672                 |
+| Linear Regression        | 0.57                       | -0.05665                 |
+| Random Forest            | 0.55                       |  0.05672                 |
 
 ## Conclusion:
 In conclusion, we have found that for predicting review ratings location is the most important factor and for recommending an item to a customer, category is the most important factor.
