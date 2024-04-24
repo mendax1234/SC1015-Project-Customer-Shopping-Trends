@@ -61,9 +61,9 @@ When comparing Random Forest to Linear Regression for the prediction of review r
 The XGBoost model is also a solid model for recommending to a new customer an item, as its accuracy is decently high as well. 
 
 ## Contributors
-1. @AlasamAkkit
-2. @Tyingjie
-3. @mendax1234
+1. Tang Yingjie - Random Forest, Linear Regression, Video
+2. Chong Yu Siang - Slides preparation, XGBoost, Video
+3. Zhu Wenbo - Data cleaning, EDA, Video
 
 ## References
 - https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/
